@@ -1,10 +1,7 @@
 <h1 align="center">Biography</h1>
 <p align="center">Lover of technology 📺, design 🎨, games 🎮,food 🍕, and cybersecurity 🔐.</p>
   
-<p align="center">
-
-![](https://komarev.com/ghpvc/?username=KloutDevs&color=brightgreen)
-
+<p align="center">![](https://komarev.com/ghpvc/?username=KloutDevs&color=brightgreen)
 </p>
 
 <h2 align="center">Skills</h2>
