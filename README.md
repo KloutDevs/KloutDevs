@@ -5,6 +5,7 @@
 <p align="center">Take a look at my best skills.</p>
 
 <p align="center">
+  <img src='https://i.imgur.com/se8Mkbj.png' height='50px'>
   <img src='https://i.imgur.com/ELC5E2x.png' height='50px'>
   <img src='https://i.imgur.com/OS6L9MW.png' height='50px'>
   <img src='https://i.imgur.com/GAQuyz4.png' height='50px'>
