@@ -5,19 +5,19 @@
 <p align="center">Take a look at my best skills.</p>
 
 <p align="center">
-  <img src='https://i.imgur.com/se8Mkbj.png' alt='VUEJS' height='50px'> VUEJS
-  <img src='https://i.imgur.com/ELC5E2x.png' alt='ELECTRONJS' height='50px'> ELECTRON
-  <img src='https://i.imgur.com/OS6L9MW.png' alt='HTML5' height='50px'> HTML
-  <img src='https://i.imgur.com/GAQuyz4.png' alt='CSS3' height='50px'> CSS 
-  <img src='https://i.imgur.com/aO50oaW.jpg' alt='JAVASCRIPT' height='50px'> JS
-  <img src='https://i.imgur.com/zjXkN4b.png' alt='PHP' height='50px'> PHP
-  <img src='https://i.imgur.com/36AGb0R.png' alt='NODEJS' height='50px'> NODEJS
-  <img src='https://i.imgur.com/cxpwb2C.png' alt='MONGODB' height='50px'> MONGODB
-  <img src='https://i.imgur.com/1efgMO7.png' alt='EXPRESS' height='50px'> EXPRESS
-  <img src='https://i.imgur.com/q6DcGfa.png' alt='MYSQL' height='50px'> MYSQL
-  <img src='https://i.imgur.com/0CnTYSh.png' alt='SQL' height='50px'> SQL
-  <img src='https://i.imgur.com/NcxoUKb.png' alt='APACHE' height='50px'> APACHE
-  <img src='https://i.imgur.com/I2CcJY3.png' alt='CLOUDFLARE' height='50px'> CLOUDFLARE
+  <img src='https://i.imgur.com/se8Mkbj.png' alt='VUEJS' height='50px'>
+  <img src='https://i.imgur.com/ELC5E2x.png' alt='ELECTRONJS' height='50px'>
+  <img src='https://i.imgur.com/OS6L9MW.png' alt='HTML5' height='50px'>
+  <img src='https://i.imgur.com/GAQuyz4.png' alt='CSS3' height='50px'>
+  <img src='https://i.imgur.com/aO50oaW.jpg' alt='JAVASCRIPT' height='50px'>
+  <img src='https://i.imgur.com/zjXkN4b.png' alt='PHP' height='50px'>
+  <img src='https://i.imgur.com/36AGb0R.png' alt='NODEJS' height='50px'>
+  <img src='https://i.imgur.com/cxpwb2C.png' alt='MONGODB' height='50px'>
+  <img src='https://i.imgur.com/1efgMO7.png' alt='EXPRESS' height='50px'>
+  <img src='https://i.imgur.com/q6DcGfa.png' alt='MYSQL' height='50px'>
+  <img src='https://i.imgur.com/0CnTYSh.png' alt='SQL' height='50px'>
+  <img src='https://i.imgur.com/NcxoUKb.png' alt='APACHE' height='50px'>
+  <img src='https://i.imgur.com/I2CcJY3.png' alt='CLOUDFLARE' height='50px'>
 
 <h2 align="center">Pinned Repositories</h2>
 <p align="center">Here are my best projects uploaded to the platform.</p>
