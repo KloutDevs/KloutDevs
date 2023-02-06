@@ -18,6 +18,8 @@
   <img src='https://i.imgur.com/0CnTYSh.png' alt='SQL' height='50px'>
   <img src='https://i.imgur.com/NcxoUKb.png' alt='APACHE' height='50px'>
   <img src='https://i.imgur.com/I2CcJY3.png' alt='CLOUDFLARE' height='50px'>
+  <img src='https://i.imgur.com/HnzJi76.png' alt='REACTJS' height='50px'>
+  <img src='https://i.imgur.com/VhLPipG.png' alt='REDUX' height='50px'>
 
 <h2 align="center">Pinned Repositories</h2>
 <p align="center">Here are my best projects uploaded to the platform.</p>
