@@ -22,6 +22,11 @@
   <img src='https://i.imgur.com/VhLPipG.png' alt='REDUX' height='50px'>
   <img src='https://i.imgur.com/qjtWDZT.png' alt='MATERIA-UI' height='50px'>
   <img src='https://i.imgur.com/H82gVOD.png' alt='BOOTSTRAP' height='50px'>
+  <img src='https://i.imgur.com/YVRqaaa.png' alt='APPSCRIPT' height='50px'>
+  <img src='https://i.imgur.com/0zfZbIU.png' alt='ASTRO' height='50px'>
+  <img src='https://i.imgur.com/VgKaEd6.png' alt='NEXTJS' height='50px'>
+  <img src='https://i.imgur.com/RaVBwmv.png' alt='TAILWINDCSS' height='50px'>
+  <img src='https://i.imgur.com/FaDYxEw.png' alt='DISCORDJS' height='50px'>
 
 <h2 align="center">Pinned Repositories</h2>
 <p align="center">Here are my best projects uploaded to the platform.</p>
