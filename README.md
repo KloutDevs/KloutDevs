@@ -59,7 +59,9 @@ As of 2025, GitHub has over 100 million developer accounts. It's pretty cool tha
 
 ---
 
-### 💻 Programming Languages (and html)
+<h2 align="center">🌱 My Skills</h2>
+
+<h4 align="center">💻 Programming Languages (and html)</h4>
 
 <p align="center">
 <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white">
@@ -80,7 +82,7 @@ As of 2025, GitHub has over 100 million developer accounts. It's pretty cool tha
 <img src="https://img.shields.io/badge/-YAML-CB171E?style=flat&logo=yaml&logoColor=white">
 </p>
 
-### 📦 Frameworks & Libraries
+<h4 align="center">📦 Frameworks & Libraries</h4>
 
 <p align="center">
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
@@ -108,7 +110,7 @@ As of 2025, GitHub has over 100 million developer accounts. It's pretty cool tha
 <img src="https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=white">
 </p>
 
-### 🛢️ Databases and ORM
+<h4 align="center">🛢️ Databases and ORM</h4>
 
 <p align="center">
 <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
@@ -125,7 +127,7 @@ As of 2025, GitHub has over 100 million developer accounts. It's pretty cool tha
 <img src="https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white">
 </p>
 
-### ⚙️ Containers, Infrastructure, and DevOps
+<h4 align="center">⚙️ Containers, Infrastructure, and DevOps</h4>
 
 <p align="center">
 <img src="https://img.shields.io/badge/-Docker%20Compose-2496ED?style=flat&logo=docker&logoColor=white">
@@ -136,7 +138,7 @@ As of 2025, GitHub has over 100 million developer accounts. It's pretty cool tha
 <img src="https://img.shields.io/badge/-VPS%20Management-003545?style=flat">
 </p>
 
-### 🔗 API's, WebSockets, and Other Services
+<h4 align="center">🔗 API's, WebSockets, and Other Services</h4>
 
 <p align="center">
 <img src="https://img.shields.io/badge/-API%20RESTful-FF6F00?style=flat">
@@ -148,7 +150,7 @@ As of 2025, GitHub has over 100 million developer accounts. It's pretty cool tha
 <img src="https://img.shields.io/badge/-Stripe%20/%20PayPal%20/%20Culqi-003545?style=flat">
 </p>
 
-### 🔧 Tools and Development Environments
+<h4 align="center">🔧 Tools and Development Environments</h4>
 
 <p align="center">
 <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white">
@@ -174,7 +176,7 @@ As of 2025, GitHub has over 100 million developer accounts. It's pretty cool tha
 </p>
 
 
-### 📈 Metadologies and Project Management
+<h4 align="center">📈 Metadologies and Project Management</h4>
 
 <p align="center">
 <img src="https://img.shields.io/badge/-Scrum-6DB33F?style=flat">
@@ -185,7 +187,7 @@ As of 2025, GitHub has over 100 million developer accounts. It's pretty cool tha
 <img src="https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white">
 </p>
 
-### 🌍 Cloud & Hosting Providers
+<h4 align="center">🌍 Cloud & Hosting Providers</h4>
 
 <p align="center">
 <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white">
@@ -198,7 +200,7 @@ As of 2025, GitHub has over 100 million developer accounts. It's pretty cool tha
 <img src="https://img.shields.io/badge/-DigitalOcean-0080FF?style=flat&logo=digitalocean&logoColor=white">
 </p>
 
-### 📝 Documentation and Productivy
+<h4 align="center">📝 Documentation and Productivy</h4>
 
 <p align="center">
 <img src="https://img.shields.io/badge/-Swagger-85EA2D?style=flat&logo=swagger&logoColor=black">
